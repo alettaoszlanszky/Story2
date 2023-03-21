@@ -1,2 +1,2 @@
 # Story2
-Newm book.
+New book.
